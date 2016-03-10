@@ -1,0 +1,4 @@
+#!/bin/bash
+
+jekyll build
+rsync -r --progress _site/ vikasgorur.folklore.io:/var/www/vikasgorur.folklore.io/
