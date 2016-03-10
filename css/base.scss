@@ -4,7 +4,7 @@
 @charset "UTF-8";
 
 body {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: sans-serif;
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
@@ -91,7 +91,7 @@ a {
   h1, h2, h3, h4 {
     color: #333;
     font-family: Helvetica, sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     a {
       color: #111;
       text-decoration: none;
@@ -107,7 +107,7 @@ a {
   }
   h3 {
     color: #777;
-    font-size: 25px;
+    font-size: 20px;
     padding-bottom: 5px;
     margin-bottom: 10px;
   }
